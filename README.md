@@ -1,7 +1,7 @@
 ### Heyo o/, I'm Sil3ntWxlf & Welcome to my README! 👋
 
 ## I'm a Marketplace partner, Game lover, Game Designer & Wannabe Developer!
--  I’m currently working on a a Minecraft Plugin [website]!
+-  I’m currently working on a a Minecraft Plugin [plugin]!
 -  I currently run a Minecraft Bedrock Edition Marketplace team
 -  I’m looking to collaborate with other developers!
 -  2020 Goals: Develop my first plugins/mods, contribute more to Open Source projects & learn to be an integral Minecraft community member  
@@ -30,4 +30,4 @@
 <br />
 
 [twitter]: https://twitter.com/Sil3ntWxlf
-[website]: https://github.com/Sil3ntWxlf/UtilitiesPlus
+[plugin]: https://github.com/Sil3ntWxlf/UtilitiesPlus
