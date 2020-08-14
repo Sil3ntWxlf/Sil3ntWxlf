@@ -1,6 +1,6 @@
 ### Heyo o/, I'm Sil3ntWxlf & Welcome to my README! 👋
 
-## I'm a Marketplace partner, Game lover, Game Designer & Wannabe Developer!
+## I'm a Minecraft Marketplace partner, Game lover, Game Designer & Wannabe Developer!
 -  I’m currently working on a a Minecraft Plugin! [[Plugin]]
 -  I currently run a Minecraft Bedrock Edition Marketplace team
 -  I’m looking to collaborate with other developers!
