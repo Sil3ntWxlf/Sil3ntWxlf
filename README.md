@@ -1,7 +1,7 @@
 ### Heyo o/, I'm Sil3ntWxlf & Welcome to my README! 👋
 
 ## I'm a Minecraft Marketplace partner, Game lover, Game Designer & amateur Developer!
--  I’m currently working on a a Minecraft Plugin! [[Plugin]]
+-  I’m currently working on a Minecraft Plugin and Mod! [[Plugin]] - [[Mod]]
 -  I currently run a Minecraft Bedrock Edition Marketplace team
 -  I’m looking to collaborate with other developers!
 -  2020 Goals: Develop my first plugins/mods, contribute more to Open Source projects & learn to be an integral Minecraft community member  
@@ -31,3 +31,4 @@
 
 [twitter]: https://twitter.com/Sil3ntWxlf
 [Plugin]: https://github.com/Sil3ntWxlf/UtilitiesPlus
+[Mod]: https://github.com/Sil3ntWxlf/carpentersblocksreborn
