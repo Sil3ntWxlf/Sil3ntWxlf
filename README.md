@@ -31,4 +31,4 @@
 
 [twitter]: https://twitter.com/Sil3ntWxlf
 [Plugin]: https://github.com/Sil3ntWxlf/UtilitiesPlus
-[Mod]: https://github.com/Sil3ntWxlf/carpentersblocksreborn
+[Mod]: https://github.com/Sil3ntWxlf/carpentersblocksreborn/tree/1.16.x
