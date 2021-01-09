@@ -2,9 +2,9 @@
 
 ## I'm a Minecraft Marketplace partner, Game lover, Game Designer & amateur Developer!
 -  I’m currently working on a Minecraft Plugin and Mod! [[Plugin]] - [[Mod]]
--  I currently run a Minecraft Bedrock Edition Marketplace team
+-  I currently run a Minecraft Bedrock Edition Marketplace team called LuxStudios
 -  I’m looking to collaborate with other developers!
--  2021 Goals: Develop my first plugins/mods, contribute more to Open Source projects & learn to be an integral Minecraft community member  
+-  2021 Goals: Develop my first public plugins/mods, contribute more to Open Source projects & learn to be an integral Minecraft community member  
 
 ### ⚡ Socials ⚡
 
