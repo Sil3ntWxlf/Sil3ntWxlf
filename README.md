@@ -1,8 +1,8 @@
 ### Heyo o/, I'm Sil3ntWxlf & Welcome to my README! 👋
 
-## I'm a Minecraft Marketplace partner, Game lover, Game Designer & amateur Developer!
--  I’m currently working on a Minecraft Plugin and Mod! [[Plugin]] - [[Mod]]
--  I currently run a Minecraft Bedrock Edition Marketplace team called LuxStudios
+## I'm a Minecraft Server Owner, Game lover, Game Designer & amateur Developer!
+-  I’m currently working on a couple Minecraft Plugins and Mods! [[Plugin]] - [[Mod]]
+-  I currently run a tech company called Lux Studios
 -  I’m looking to collaborate with other developers!
 -  2021 Goals: Develop my first public plugins/mods, contribute more to Open Source projects & learn to be an integral Minecraft community member  
 
