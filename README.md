@@ -30,4 +30,4 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/Sil3ntWxlf
+[twitter]: https://x.com/Sil3ntWxlf
