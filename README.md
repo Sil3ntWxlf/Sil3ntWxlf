@@ -1,10 +1,11 @@
 ### Heyo o/, I'm Sil3ntWxlf & Welcome to my README! 👋
 
-## I'm a Minecraft Server Owner, Game lover, Game Designer & amateur Developer!
--  I’m currently working on a couple Minecraft Plugins and Mods!  [[Mod]] - [[Plugin]]
--  I currently run a tech company called Lux Studios
+## A Minecraft Server Owner, Game Designer & amateur Developer 
+-  Owner of Lux Studios LLC & Builder's Haven
+-  Currently working on my passion project(s)
 -  I’m looking to collaborate with other developers!
--  2021 Goals: Develop my first public plugins/mods, contribute more to Open Source projects & learn to be an integral Minecraft community member  
+-  _2021 Goals: Develop my first public plugins/mods, contribute more to Open Source projects & learn to be an integral Minecraft community member_
+-  2026 Goals: Working on an independent game in Unreal Engine (subject to change)
 
 ### ⚡ Socials ⚡
 
@@ -30,5 +31,3 @@
 <br />
 
 [twitter]: https://twitter.com/Sil3ntWxlf
-[Plugin]: https://github.com/Sil3ntWxlf/UtilitiesPlus
-[Mod]: https://github.com/Sil3ntWxlf/carpentersblocksreborn/tree/Forge-1.16.4
